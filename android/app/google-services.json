@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "97747204153",
+    "project_id": "room-finder-dc35b",
+    "storage_bucket": "room-finder-dc35b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:97747204153:android:e082400d60396aa01bb5e8",
+        "android_client_info": {
+          "package_name": "com.example.pro_kit_room_finder"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaYhWpkPIQV-PC6-unGILxY2SjnmJLL4M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
